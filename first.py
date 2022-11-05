@@ -6,3 +6,5 @@ for i in range(20):
         print(name)
     else:
         print('nothing')
+
+# addding comment for practice
